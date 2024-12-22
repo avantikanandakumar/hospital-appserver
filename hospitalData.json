@@ -1,0 +1,6 @@
+          [{"id":1,"Hospital name":"Kims", "Patient count":3000, "Location":"Kollam"},
+           {"id":2,"Hospital name":"Medical College", "Patient count":1000, "Location":"Tvm"},
+           {"id":3,"Hospital name":"Sk", "Patient count":5000, "Location":"Kochi"},
+           {"id":4,"Hospital name":"ABC", "Patient count":900, "Location":"Thrissur"}
+
+          ]
